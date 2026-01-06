@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Yu-Chi Chen 👋
+
+🎓 **42 Singapore Core Student**  
+💻 **Background:** Digital IC Design · Automation · Data  
+📍 **Based in Singapore**
+
+---
+
+## 🧠 About Me
+I am a system-oriented engineer with experience spanning **low-level programming, automation, and data analytics**.
+
+Before joining 42 Singapore, I worked as a **Digital IC Design Engineer**, collaborating with cross-functional teams and building reliable engineering workflows.  
+At 42, I focus on **C, Unix systems, process control, and memory management**, with strong attention to debugging and code quality.
+
+I enjoy turning complex systems into **clear, maintainable, and testable code**.
+
+---
+
+## 🌱 Currently
+- Completing 42 Common Core projects
+- Strengthening system-level programming skills
+- Preparing for **internship / full-time software roles in Singapore**
+
+---
 
 <!--
 **yuchi1025/yuchi1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
