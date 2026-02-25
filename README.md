@@ -23,6 +23,10 @@ I enjoy turning complex systems into **clear, maintainable, and testable code**.
 
 ---
 
+## 📫 Contact Information
+- Email: yuchichen1996@gmail.com
+- LinkedIn: www.linkedin.com/in/yu-chi-chen-4b57a61ab
+
 <!--
 **yuchi1025/yuchi1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
